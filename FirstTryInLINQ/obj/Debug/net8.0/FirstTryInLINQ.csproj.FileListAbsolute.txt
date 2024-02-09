@@ -1,0 +1,14 @@
+C:\Users\4R4S8\source\repos\FirstTryInLINQ\FirstTryInLINQ\bin\Debug\net8.0\FirstTryInLINQ.exe
+C:\Users\4R4S8\source\repos\FirstTryInLINQ\FirstTryInLINQ\bin\Debug\net8.0\FirstTryInLINQ.deps.json
+C:\Users\4R4S8\source\repos\FirstTryInLINQ\FirstTryInLINQ\bin\Debug\net8.0\FirstTryInLINQ.runtimeconfig.json
+C:\Users\4R4S8\source\repos\FirstTryInLINQ\FirstTryInLINQ\bin\Debug\net8.0\FirstTryInLINQ.dll
+C:\Users\4R4S8\source\repos\FirstTryInLINQ\FirstTryInLINQ\bin\Debug\net8.0\FirstTryInLINQ.pdb
+C:\Users\4R4S8\source\repos\FirstTryInLINQ\FirstTryInLINQ\obj\Debug\net8.0\FirstTryInLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4R4S8\source\repos\FirstTryInLINQ\FirstTryInLINQ\obj\Debug\net8.0\FirstTryInLINQ.AssemblyInfoInputs.cache
+C:\Users\4R4S8\source\repos\FirstTryInLINQ\FirstTryInLINQ\obj\Debug\net8.0\FirstTryInLINQ.AssemblyInfo.cs
+C:\Users\4R4S8\source\repos\FirstTryInLINQ\FirstTryInLINQ\obj\Debug\net8.0\FirstTryInLINQ.csproj.CoreCompileInputs.cache
+C:\Users\4R4S8\source\repos\FirstTryInLINQ\FirstTryInLINQ\obj\Debug\net8.0\FirstTryInLINQ.dll
+C:\Users\4R4S8\source\repos\FirstTryInLINQ\FirstTryInLINQ\obj\Debug\net8.0\refint\FirstTryInLINQ.dll
+C:\Users\4R4S8\source\repos\FirstTryInLINQ\FirstTryInLINQ\obj\Debug\net8.0\FirstTryInLINQ.pdb
+C:\Users\4R4S8\source\repos\FirstTryInLINQ\FirstTryInLINQ\obj\Debug\net8.0\FirstTryInLINQ.genruntimeconfig.cache
+C:\Users\4R4S8\source\repos\FirstTryInLINQ\FirstTryInLINQ\obj\Debug\net8.0\ref\FirstTryInLINQ.dll
